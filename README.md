@@ -1,2 +1,4 @@
 # PacSquare
-Le but du jeu est de réaliser un personnage qui mange des pommes qui apparaitre de manière aléatoire sur l’écran, tout en évitant des obstacles ainsi que la délimitation dans laquelle il est censé de rester. Pour chaque pomme mangée, le personnage fera augmenter le point ainsi que la vitesse avec laquelle il se déplace qui rendra par conséquence plus difficile le jeu au fur et à mesure.
+le but est de consommer le plus de fruits à l'écran en utilisant les fleches directionelles du clavier tout en évitant les fantomes qui traversent l'écran.
+
+JavaFX nécessaire
